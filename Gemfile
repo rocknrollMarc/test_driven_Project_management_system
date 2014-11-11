@@ -41,6 +41,12 @@ group :test do
   gem 'minitest-reporters'
   gem 'guard-minitest'
   gem 'guard-bundler'
+  gem 'guard-rails'
   gem 'minitest-rg'
   gem 'minitest-rails-capybara'
+  gem 'growl_notify'
+  gem 'minitest-growl'
+  gem 'terminal-notifier-guard'
+  gem 'terminal-notifier'
+
 end
