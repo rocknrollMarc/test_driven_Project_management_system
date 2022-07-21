@@ -169,13 +169,13 @@ GEM
     terminal-notifier (1.6.2)
     terminal-notifier-guard (1.6.4)
     thor (0.19.1)
-    thread_safe (0.3.4)
+    thread_safe (0.3.6)
     tilt (1.4.1)
     timers (4.0.1)
       hitimes
     turbolinks (2.5.2)
       coffee-rails
-    tzinfo (1.2.2)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (2.5.3)
       execjs (>= 0.3.0)
